@@ -18,6 +18,7 @@ export default function Home() {
       </p>
       <hr />
       <hr />
+      <hr />
       <h1>Non-Negotiable things to do:</h1>
       <ul>
         <li>Surya Kriya (min. 3 cycles) + Yogasanas (30 sec)</li>
@@ -32,13 +33,12 @@ export default function Home() {
       </p>
       <p>X Didn't done my daily exercise</p>
       <p>X Didn't learn anything new</p>
-
       <hr />
       <h1>Day 2 Monday</h1>
       <hr />
-      <br />
       <hr />
-      <h1>Contact</h1>
+      <hr />
+      Contact:
       <p>
         <Link href={`https://www.instagram.com/vivek.vy0s/`}>
           https://www.instagram.com/vivek.vy0s/
