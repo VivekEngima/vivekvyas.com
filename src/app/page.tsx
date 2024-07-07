@@ -29,10 +29,10 @@ export default function Home() {
       <p>
         I think i have made kind of great and detailed plan to start make
         $10,000 per month in 3 month time. If i play my all cards correctly and
-        paitencely then it shouldn't be so hard.
+        paitencely then it shouldn&apos;t be so hard.
       </p>
-      <p>X Didn't done my daily exercise</p>
-      <p>X Didn't learn anything new</p>
+      <p>X Didn&apos;t done my daily exercise</p>
+      <p>X Didn&apos;t learn anything new</p>
       <hr />
       <h1>Day 2 Monday</h1>
       <hr />
