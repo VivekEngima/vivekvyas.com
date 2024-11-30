@@ -1,17 +1,12 @@
-import Head from "next/head";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Under Maintenance",
+};
 
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Under Maintenance</title>
-        <meta
-          name="description"
-          content="We are currently working on improvements. Please check back later."
-        />
-        <meta name="robots" content="noindex, nofollow" />
-      </Head>
-
       <div className="min-h-screen flex items-center justify-center bg-black">
         <div className="text-center">
           <h1 className="text-white text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight">
